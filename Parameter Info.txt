@@ -1,0 +1,12 @@
+Parameter Informaion:--
+
+
+>>SPO2 - Oxygen Saturation Level in blood.
+>>Haemoglobin - Protein moelcule in the Red Blood Cells that carries oxygen from Lungs to the body and returns CO2
+ to the lungs.
+>>Lung Capacity - Volume of air in the lungs upon maximum effort of inspiration.
+>>Age - Age of the individual.
+>>Weight - Weight of the person.
+
+The new proposed method is to find whether a person is Covid Positive or not based on the value of Risk Factor which is 
+calcualted based on the Parameters above. The Calculation is shown in Risk Factor.ipynb File
